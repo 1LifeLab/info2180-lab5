@@ -1,0 +1,9 @@
+/* Add your own styles */
+body{
+    text-align: center;
+}
+
+#lookup{
+   left :40px;
+    top: 20px;
+}
